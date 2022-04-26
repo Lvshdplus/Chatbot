@@ -1,6 +1,6 @@
 ## ChatChat – A Conversational Based Agent
 
-**Team: **Shidong Lyu, Yao Shen, Yilin Guo. **Project Mentor TA: **Saumya
+**Team **: Shidong Lyu, Yao Shen, Yilin Guo. **Project Mentor TA **: Saumya
 
 
 #### 1) Abstract
